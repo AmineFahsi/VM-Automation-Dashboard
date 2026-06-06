@@ -1,1 +1,7 @@
-
+Flask
+Flask-SocketIO
+paramiko
+passlib
+eventlet
+python-socketio
+python-engineio
